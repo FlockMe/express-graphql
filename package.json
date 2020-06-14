@@ -1,0 +1,18 @@
+{
+ "name": "express-graphql",
+ "version": "1.0.0",
+ "description": "Pembelajaran GraphQL",
+ "scripts": {
+  "test": "node index.js"
+ },
+ "dependencies": {
+  "express": "*",
+  "express-graphql": "*",
+  "graphql": "*"
+ },
+ "engines": {
+  "node": "12.x"
+ },
+ "author": "Hans Putera",
+ "license": "ISC"
+}
